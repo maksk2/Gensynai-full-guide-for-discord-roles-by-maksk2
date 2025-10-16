@@ -146,7 +146,7 @@ pip install -U trl
 To get it, follow these steps:
 
 1. Go to Telegram to @BotFather, create any bot and save its token.
-2. Go to https://dashboard .gensyn.ai /, log in via email and save the account address (it will be on the top right).
+2. Go to https://dashboard.gensyn.ai /, log in via email and save the account address (it will be on the top right).
 3. Go to Telegram to @myidbot and find out your ID.
 4. Go to Discord in the #swarm-link channel, enter the /link-telegram command and copy the generated command with the code.
 5. On any server, run the command:
