@@ -160,6 +160,134 @@ wget -O tg_role.sh https://raw.githubusercontent.com/VaniaHilkovets/GensynFix/ma
 
 <img width="357" height="81" alt="image" src="https://github.com/user-attachments/assets/5b045b47-dca1-487c-beed-6a45a993bfe7" />
 
+# Getting the blockassist role
+go to the website https://octa.space?ref=r0Leqpsrmfp and we replenish the balance by 1 dollar
+
+<img width="1772" height="943" alt="image" src="https://github.com/user-attachments/assets/bbdfb9d5-50d8-4da0-af01-590cf165e028" />
+we search for gensyn in the search and select "Gensyn AI Block Assist"
+
+<img width="1628" height="742" alt="image" src="https://github.com/user-attachments/assets/97d249a1-c96a-4bfe-883c-68216629df80" />
+
+Look for nodes with min 16GB of RAM and 6+ core CPU. Most modern GPU's are supported ranging from RTX 3060, Ada4000, RTX 4070, RTX 5070 etc.
+
+
+IMPORTANT: Look for nodes which have CUDA 12.8 and newer installed. Use the filter on the left hand side.
+
+<img width="800" height="438" alt="image" src="https://github.com/user-attachments/assets/a3f29436-1c3c-44a6-9d94-28b5ac0c5bde" />
+
+Select a suitable node and click "Configure" in the top right hand corner.
+
+<img width="800" height="613" alt="image" src="https://github.com/user-attachments/assets/2e478f6c-2e48-4d51-8318-1f096f60a24c" />
+
+we register on the website https://huggingface.co and go to settings
+
+<img width="1899" height="849" alt="image" src="https://github.com/user-attachments/assets/7b8b3cba-c495-4f1b-b775-a0a1a17c9ff5" />
+
+select acces token and click create a new token
+
+<img width="1920" height="862" alt="image" src="https://github.com/user-attachments/assets/16be1d31-f2eb-411b-a643-0d5495f52289" />
+
+On the configuration page, paste your HuggingFace token in the HF_TOKEN field and leave the remaining settings to default.
+
+<img width="800" height="563" alt="image" src="https://github.com/user-attachments/assets/0b7e6e22-4b10-4326-a62c-ae49e73fb597" />
+
+Click the "Deploy" button in the top right hand corner.
+
+Initially you will see this status.
+
+<img width="800" height="142" alt="image" src="https://github.com/user-attachments/assets/ea8eedc1-0a9a-4375-927b-0d7f5ac709aa" />
+
+Wait until it changes to "Service configured"
+
+<img width="800" height="110" alt="image" src="https://github.com/user-attachments/assets/6e54abf7-0112-484d-b33d-82289f9488b0" />
+
+Then click on the session. This will show a pop-up. Click on the link under "HTTP Services"
+
+<img width="800" height="261" alt="image" src="https://github.com/user-attachments/assets/63360964-c42b-43b1-8b0f-597290221c16" />
+
+You will be presented with a desktop. There you will see a "Gensyn AI Block Assist" icon. Double click to load it.
+
+<img width="800" height="408" alt="image" src="https://github.com/user-attachments/assets/0fb4b328-1bef-40fe-bf55-4dc27ec8c9b1" />
+
+This will load up a console window, wait until it loads a Gensyn login window.
+
+<img width="800" height="493" alt="image" src="https://github.com/user-attachments/assets/844c4d49-e0e0-48d9-9bb6-8726eb27da73" />
+
+After the process is completed you will need to sign-in to the Gensyn Testnet:
+
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ee59f7c8-951c-44f5-9644-67dcaadf56c3" />
+
+After you've signed in, Minecraft will load.
+
+Be patient, it can take up to 5 minutes for Minecraft to load.
+
+<img width="800" height="474" alt="image" src="https://github.com/user-attachments/assets/5afdfd46-2037-483f-abc5-d0d56776292b" />
+
+Once Minecraft has loaded, in the terminal, press the ENTER key to load up AI.
+After playing the game you have to go back to the terminal and press enter 2-3 times.
+Finally, when you start a new game for the interaction to be fully immersive and work, you will need to enter full screen.
+To do that, hover over the small gray semicircle and click on it to expand the main panel.
+
+<img width="800" height="474" alt="image" src="https://github.com/user-attachments/assets/4db112f3-a767-4ca3-b3c4-2645ab5ae588" />
+
+Click this icon to enter full screen
+
+<img width="800" height="433" alt="image" src="https://github.com/user-attachments/assets/3f952038-3791-4f16-9717-99b9f5016a7f" />
+
+# taking over the Block role
+in the Swarm branch in the discord, we write 
+```bash
+/block-verify
+```
+<img width="285" height="79" alt="image" src="https://github.com/user-attachments/assets/2f0324ff-9611-4a23-9cda-c809f289692c" />
+
+We will need to fill in 2 fields
+
+<img width="473" height="410" alt="image" src="https://github.com/user-attachments/assets/4481fd6e-c378-4e3f-b45f-54486a1a96ce" />
+
+• 1 these are the records of our model, you can find it in our profile 
+
+<img width="1901" height="854" alt="image" src="https://github.com/user-attachments/assets/dac3957b-db33-4b55-b92a-6eda239aa2e4" />
+<img width="1283" height="47" alt="image" src="https://github.com/user-attachments/assets/882b063a-1375-4ed6-b6d2-0090f24e5b74" />
+
+
+• 2 this is our unique Hugging face token, we insert it
+
+Congratulations, you got these roles.
+
+<img width="324" height="88" alt="image" src="https://github.com/user-attachments/assets/e51d9144-c48f-4c57-b14f-17b2ea7705e1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
